@@ -1,0 +1,43 @@
+body {
+	background: #f6f5f4;
+	margin: 20px 100px;
+	font-family: Cantarell;
+}
+
+h2 {
+	margin: 0px 0px 25px 0px;
+	text-align: left;
+}
+
+h4 {
+	margin: 0px 0px 5px 0px;
+	text-align: left;
+}
+
+p {
+	margin: 2px;
+}
+
+a {	
+	color: #2e3436;
+	font-weight: Normal;
+	text-decoration: none;
+}
+
+img {
+	background: #ffffff;
+	border-radius: 10px;
+	margin: 0px 15px;
+	box-shadow: 0px 1px 4px #888888;
+}
+
+table, th, dt {
+	padding: 0px 0px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	text-align: left;
+	margin: 0px 0px 15px -2px;
+}
