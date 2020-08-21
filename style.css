@@ -1,6 +1,8 @@
 body {
 	background: #f6f5f4;
-	margin: 20px 100px;
+	margin-top: 60px; 
+	margin-left: auto;
+	margin-right: auto;
 	font-family: -apple-system, BlinkMacSystemFont, Cantarell;
 }
 
@@ -37,7 +39,16 @@ table, th, dt {
 	margin-right: auto;
 }
 
-div {
+/* div {
 	text-align: left;
 	margin: 0px 0px 15px -2px;
-}
+}*/
+
+input {
+	width: 625px;
+	height: 40px;
+	}
+
+div {
+	text-align: center;
+	}
